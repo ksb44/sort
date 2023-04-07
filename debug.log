@@ -1,0 +1,33 @@
+Thu Apr  6 17:08:30 2023
+line No.|172| function |check_argument|Debugging level 2: all debugging messages and errors will be printed.
+Error: invalid record format: 45,virat,45
+Error: invalid record format: 45,karan,50
+Error: invalid record format: ,,
+Error: invalid record format: 45
+Error: invalid record format: jiren,
+Error: invalid record format: ,89
+Error: invalid record format: kid,67,46
+7 invalid records read
+8 valid records read
+
+BEFORE sorting:
+
+samar,22
+kohli,66
+Dilshad,33
+Gautam,90
+Cinna,566
+keshav,5566
+honey,56
+henry,54
+
+AFTER sorting:
+
+Cinna,566
+Dilshad,33
+Gautam,90
+henry,54
+honey,56
+keshav,5566
+kohli,66
+samar,22
